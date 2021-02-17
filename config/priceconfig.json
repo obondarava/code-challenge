@@ -1,0 +1,34 @@
+{
+    "default": {
+        "classic": 269.99,
+        "standout": 322.99,
+        "premium": 394.99,
+        "DealFor": "NA",
+        "MinPurchase": 0,
+        "DiscountOf": 0
+    },
+    "SecondBite": {
+        "classic": 269.99,
+        "standout": 322.99,
+        "premium": 394.99,
+        "DealFor": "classic",
+        "MinPurchase": 2, 
+        "DiscountOf": 1
+    },
+    "Axil Coffee Roasters": {
+        "classic": 269.99,
+        "standout": 299.99,
+        "premium": 394.99,
+        "DealFor": "NA",
+        "MinPurchase": 0,
+        "DiscountOf": 0
+    },
+    "MYER": {
+        "classic": 269.99,
+        "standout": 322.99,
+        "premium": 389.99,
+        "DealFor": "standout",
+        "MinPurchase": 4,
+        "DiscountOf": 1
+    }
+}
